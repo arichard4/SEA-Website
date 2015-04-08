@@ -1,0 +1,53 @@
+### Site info:
+title: Stanford Effective Altruism
+tagline: "We use evidence and reason to ask 'Where can a small set of individuals make the biggest difference?'"
+author: Alex Richard
+email: richard4@stanford.edu
+description: "We use evidence and reason to ask 'Where can a small set of individuals make the biggest difference?'"
+keywords: "Stanford, Effective, Altruism"
+baseurl: "/group/ea"
+url: "http://web.stanford.edu"
+locale: en_US
+
+### Site setting:
+ShowContactInfo: "True"
+default_column: "two" # blog style: two columns, if default_column != "two", you will see a one column blog.
+default_locale: "en" # blog sidebar language set, only include: English(en) and Chinese (cn)
+
+locales:
+    en:
+      Aboutme: "About Me"
+      Archives: "Archives"
+      Blogroll: "Blogroll"
+      Categories: "Categories"
+      Copyright_Notice: "Copyright Notice"
+      Events: "Events"
+      Recent_Posts: "Recent Posts"
+      Tags: "Tags"
+      Organizers: "Organizers"
+      Previous: "Older"
+      Next: "Newer"
+      PostedInCategories: "Posted in"
+      Taggedwith: "and tagged"  
+      PostDate: "on "
+
+### your Blogroll info, only name can shown on the page.
+
+Blogroll:
+    - name: Effective Altruism Forum
+      href: http://effective-altruism.com/
+      title: Effective Altruism Forum
+    - name: Slate Star Codex
+      href: http://slatestarcodex.com/
+      title: Slate Star Codex
+    - name: 80000 Hours
+      href: https://80000hours.org/blog/
+      title: 80000 Hours
+    - name: Givewell
+      href: http://blog.givewell.org/
+      title: Givewell
+
+### Build settings
+markdown: kramdown
+highlighter: pygments
+paginate: 5

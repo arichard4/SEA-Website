@@ -1,0 +1,9 @@
+<div class="sidebar-module">
+  <h4>{{ site.locales[site.default_locale].Organizers }}</h4>
+  {% for person in site.categories.people %}
+  <li>
+  {{person.position}}: {{person.firstname}} {{person.lastname}}
+  </li>
+  {% endfor %}
+</div>
+

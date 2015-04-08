@@ -1,0 +1,11 @@
+<div class="sidebar-module">
+  <h4>{{ site.locales[site.default_locale].Events }}</h4>
+  {% for event in site.categories.events limit:5 %}
+  <li id='event'>
+  <span id='event-title'>{{ event.title }}</span>
+  <span id='event-date'>{{ event.day }}</span> <br/>
+  <span id='event-link'><a href="{{ site.baseurl }}{{ event.url }}" title="{{ event.title }}" rel="bookmark"id='event-link'>{{ event.excerpt }}</a></span
+  </li>
+  {% endfor %}
+</div>
+
