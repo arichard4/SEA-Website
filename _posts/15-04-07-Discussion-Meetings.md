@@ -7,7 +7,7 @@ category: blog
 
 (Crossposted to the Effective Altruism forum.)
 
-Our discussion-focused meetings are based around sheets with a list of questions and relevant background; you can see examples of previous ones <a href="https://drive.google.com/open?id=0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00&authuser=0">here</a>. At one point we planned to consistently provide a page of background on the other side of the sheet; we've partially stopped doing so, as the background didn't seem to really guide the conversation. We'll likely start again after the Peter Singer speaker event on April 8th, given the likely flood of new people.
+Stanford EA's discussion-focused meetings are based around sheets with a list of questions and relevant background; you can see examples of previous ones <a href="https://drive.google.com/open?id=0B7BGumocZjekfjJXYVBaWWF6S0ZPN1czSVF5QVNnWUhORFpIWkw2Nms4RU9TOXhuU0FYa00&authuser=0">here</a>. At one point we planned to consistently provide a page of background on the other side of the sheet; we've partially stopped doing so, as the background didn't seem to really guide the conversation. We'll likely start again after the Peter Singer speaker event on April 8th, given the likely flood of new people.
 
 First we have a few minutes to write down our answers to the questions on the sheet. We then go around the circle doing introductions, as specified at the top of the sheet. Then, for each question, we go around the circle and give our response to it.
 
@@ -19,4 +19,4 @@ It’s rare that we actually make it all the way through the questions. Usually 
 
 The meetup lasts for an hour and a half, after which most of us get dinner at a Stanford dining hall.
 
-(Thanks to Buck Shlegeris for writing to first draft of this post.)
+(Thanks to Buck Shlegeris for writing the first draft of this post.)
