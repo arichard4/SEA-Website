@@ -2,7 +2,13 @@
   <h4>{{ site.locales[site.default_locale].Organizers }}</h4>
   {% for person in site.categories.people %}
   <li>
-  {{person.position}}: {{person.firstname}} {{person.lastname}}
+    {{person.position}}:
+    <!--Used to prevent email spam-->
+    <script type="text/javascript">
+      var emailParts = "{{person.email}}".split("@")
+      document.write('<a href="mailto:' + '{{person.email1}}' + '@' + '{{person.email2}}' + '">')
+    </script>
+    {{person.firstname}} {{person.lastname}}</a>
   </li>
   {% endfor %}
 </div>
