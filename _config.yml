@@ -52,3 +52,5 @@ markdown: kramdown
 highlighter: pygments
 paginate: 5
 exclude: [LICENSE, README.md, push.sh]
+gems: [jekyll-paginate]
+future: true
